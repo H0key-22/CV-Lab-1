@@ -11,7 +11,7 @@
 ## 2.目录结构
 
 ```
-plaintext复制编辑├── dataset.py
+├── dataset.py
 ├── hyperparameter_search.py
 ├── model.py
 ├── train.py
