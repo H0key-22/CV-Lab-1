@@ -76,4 +76,4 @@
 
 # 4.模型文件下载
 
-该实验在理想情况下训练所得的模型文件可通过以下链接获得：
+该实验在理想情况下训练所得的模型文件可通过以下链接获得：https://drive.google.com/file/d/1RPqu701mQ_eFYT9TrM2rcTIpW1tXr1l9/view?usp=drive_link
